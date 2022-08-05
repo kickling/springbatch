@@ -1,1 +1,1 @@
-# springbatch
+Spring解体新書 バッチ編学習用リポジトリ
